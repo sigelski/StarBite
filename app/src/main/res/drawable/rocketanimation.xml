@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/rocketanimation"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@drawable/rocketshipsmaller" android:duration="170" />
+        <item android:drawable="@drawable/rocketshipsmaller2" android:duration="170" />
+        <item android:drawable="@drawable/rocketshipsmaller3" android:duration="170" />
+        <item android:drawable="@drawable/rocketshipsmaller2" android:duration="170" />
+
+</animation-list>
